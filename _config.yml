@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lexing Zhang(le hsing chang)"
-description              : "Exchange Student"
+description              : "Exchange Student(B.E. Student)"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lexing Zhang(le hsing chang)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "National university of Singapore(chang'an university)"
+  bio              : "National University of Singapore(Chang'an University)"
   location         : "Singapore,Singapore"
   employer         :
   pubmed           : 
