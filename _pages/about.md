@@ -34,8 +34,8 @@ Please find my CV [here](../files/cv.pdf "LExing Zhang's CV"){:target="_blank"}.
 <span class='anchor' id='-xl'></span>
 
 # 🎓 education
-- *2024.08 - Present*, <a href="https://www.nus.edu.sg/"><img class="jpeg" src="/images/R.jpeg" width="23pt"></a> 新加坡国立大学, 土木与环境工程学院, 交换生
-- *2021.08 - Present*, <a href="https://en.chd.edu.cn/"><img class="jpg" src="/images/xh2.jpg" width="23pt"></a> 长安大学, 运输工程学院, 本科
+- *2024.08 - Present*, <a href="https://www.nus.edu.sg/"><img class="jpeg" src="/images/R.jpeg" width="23pt"></a> National University of Singapore, Department of Civil and Environmental Engineering, Exchange Student
+- *2021.08 - Present*, <a href="https://en.chd.edu.cn/"><img class="jpg" src="/images/xh2.jpg" width="23pt"></a> Chang'an University, School of Transportation Engineering, undergraduate
 
 <span class='anchor' id='-pub'></span>
 
