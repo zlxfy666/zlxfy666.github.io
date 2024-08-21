@@ -78,6 +78,8 @@ Boyao Peng, **Lexing Zhang**, Enkai Li, Yin Feng, Ying Zhang, Li Zhong
 
 - From Lockdown to Recovery: Modeling the Long-term Effects of COVID-19 on Xi'an's Metro Ridership. Chen Ma, Baixi Shi, Yanqiu Cheng, **Lexing Zhang**, Kuanmin Chen. 104th Annual Meeting of Transportation Research Board (TRB 2025).
 
+<span class='anchor' id='-haa'></span>
+
 # 🎖 Honors and Awards
 - National Scholarship(Top 1%)
 - Class Academic Merit Scholarship
