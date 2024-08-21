@@ -64,8 +64,8 @@ include:
   - .htaccess
   - _pages
   - files
-exclude:
   - docs
+exclude:
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
