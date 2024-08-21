@@ -27,7 +27,7 @@ redirect_from:
 - 智能交通系统
 - 交通安全
 
-Please find his CV [here](../docs/Lexing Zhang CV.pdf){:target="_blank"}.
+Please find his CV [here](../files/cv.pdf "LExing Zhang's CV"){:target="_blank"}.
 
 <span class='anchor' id='-xl'></span>
 
