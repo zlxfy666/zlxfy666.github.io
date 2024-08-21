@@ -30,7 +30,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2024.08 - Present*, <a href="https://www.nus.edu.sg/"><img class="svg" src="/images/NUS_logo.svg" width="23pt"></a> 新加坡国立大学, 土木与环境工程学院, 交换生
+- *2024.08 - Present*, <a href="https://www.nus.edu.sg/"><img class="jpg" src="/images/xh2.jpg" width="23pt"></a> 新加坡国立大学, 土木与环境工程学院, 交换生
 - *2021.08 - Present*, <a href="https://www.nus.edu.sg/"><img class="svg" src="/images/NUS_logo.svg" width="20pt"></a> 长安大学, 计算机系, 本科
 
 <span class='anchor' id='-lwzl'></span>
