@@ -53,7 +53,7 @@ Boyao Peng, **Lexing Zhang**, Enkai Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCEPT 2024</div><img class="jpg" src="/images/zyl.jpg" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Free-flow tolling system for expressway with fusion of 5G communication and high-precision positioning technology](https://zlxfy666.github.io/docs/zyl.pdf)
+[Free-flow tolling system for expressway with fusion of 5G communication and high-precision positioning technology](docs/zyl.pdf)
 
 Boyao Peng, **Lexing Zhang**, Enkai Li, Yin Feng, Ying Zhang, Li Zhong
 
