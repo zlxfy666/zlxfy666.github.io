@@ -38,7 +38,7 @@ redirect_from:
 
 # 📝publication
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2024</div><img class="png" src='paper_TR2024.png' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2024</div><img class="png" src='paper_TR2024.jpg' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LANE LEVEL JOINT CONTROL OF OFF-RAMP AND MAIN LINE SPEED GUIDANCE ON EXPRESSWAY IN RAINY WEATHER](https://arxiv.org/abs/2403.14172)
