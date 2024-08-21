@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# <font size=5>Welcome to Lexing Zhang's homepage!</font>
+# <font size=7>Welcome to Lexing Zhang's homepage!</font>
 
 我目前是新加坡国立大学的交换生，长安大学本科生。研究兴趣集中在深度学习算法与强化学习算法在交通安全领域的应用。我已发表多篇学术论文，并在Python和MATLAB编程方面有较强的能力。
 
