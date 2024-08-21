@@ -66,3 +66,20 @@ Boyao Peng, **Lexing Zhang**, Enkai Li, Yin Feng, Ying Zhang, Li Zhong
 </div>
 </div>
 
+# 🎖 Honors and Awards
+- National Scholarship(Top 1%)
+- Class Academic Merit Scholarship
+- College Contribution Scholarship
+- Course Excellence Scholarship
+- National 1st Prize, The 18th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Works Competition
+- Honorable Mention, 2024 American Collegiate Mathematical Modeling Contest
+- Provincial 1st Prize, "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling
+- Provincial 1st Prize, the 1st Shaanxi Provincial College Students Transportation Technology Competition in 2023
+- Provincial 2nd Prize, the 1st Shaanxi Provincial College Students Transportation Technology Competition in 2023
+- Provincial 2nd Prize, the 2nd Shaanxi Provincial College Students Transportation Technology Competition in 2024
+- Provincial 3nd Prize, the 2nd Shaanxi Provincial College Students Transportation Technology Competition in 2024
+
+# 📚 Skills 
+- Software: SPSS, MATLAB, Visio, VISSIM, AutoCAD, Origin.
+- Computer skills: Python, familiar with basic machine learning algorithms, and basic data processing skills.
+- English Level: CET-4 (531), CET-4 (439), TOEFL (88).
