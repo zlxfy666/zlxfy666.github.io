@@ -27,6 +27,8 @@ redirect_from:
 - 智能交通系统
 - 交通安全
 
+Please find his CV [here](../docs/Lexing Zhang CV.pdf){:target="_blank"}.
+
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
