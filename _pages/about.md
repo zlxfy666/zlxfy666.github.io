@@ -33,7 +33,7 @@ I am familiar with a variety of deep learning algorithms, and have strong skills
 - Intelligent Transportation Systems
 - Transportation safety
 
-Please find my CV [here](../files/cv.pdf "LExing Zhang's CV"){:target="_blank"}.
+Please find my CV [here](../files/Lexing Zhang CV.pdf"LExing Zhang's CV"){:target="_blank"}.
 
 <span class='anchor' id='-xl'></span>
 
