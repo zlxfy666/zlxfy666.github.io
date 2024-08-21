@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-am'></span>
 
-# <font size=5>Welcome to Lexing Zhang's homepage!</font>
+# <font size=6>Welcome to Lexing Zhang's homepage!</font>
 
 I am currently an exchange student at National University of Singapore and an undergraduate student at Chang'an University.
 I have published a number of academic papers in TRB and other international conferences, and a number of patents are in the substantive examination stage. 
