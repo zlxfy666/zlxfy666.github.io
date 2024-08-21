@@ -20,7 +20,9 @@ redirect_from:
 # <font size=6>Welcome to Lexing Zhang's homepage!</font>
 
 I am currently an exchange student at National University of Singapore and an undergraduate student at Chang'an University.
+
 I have published a number of academic papers in TRB and other international conferences, and a number of patents are in the substantive examination stage. 
+
 I am familiar with a variety of deep learning algorithms, and have strong skills in Python and MATLAB programming.
 
 My research interests include:
