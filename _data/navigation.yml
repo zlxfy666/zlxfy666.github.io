@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#-Welcome-to-Lexing-Zhang's-homepage!"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "学历"
+    url: "/#-学-历"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-publication"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -19,4 +19,4 @@ main:
     url: "/#-invited-talks"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#-Skills"
