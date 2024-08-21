@@ -50,5 +50,17 @@ Boyao Peng, **Lexing Zhang**, Enkai Li
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCEPT 2024</div><img class="jpg" src="/images/zyl.jpg" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Free-flow tolling system for expressway with fusion of 5G communication and high-precision positioning technology](https://github.com/zlxfy666/zlxfy666.github.io/blob/main/docs/zyl.pdf)
+
+Boyao Peng, **Lexing Zhang**, Enkai Li, Yin Feng, Ying Zhang, Li Zhong
+
+**贡献** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 元胞自动机仿真建模与参数标定
+- 使用MATLAB语言完成元胞自动机仿真程序开发
+- 数据可视化
+</div>
+</div>
 
