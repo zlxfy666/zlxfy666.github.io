@@ -3,7 +3,7 @@ main:
   - title: "About Me"
     url: "/#-am"
 
-  - title: "学历"
+  - title: "education"
     url: "/#-xl"
 
   - title: "Publications"
