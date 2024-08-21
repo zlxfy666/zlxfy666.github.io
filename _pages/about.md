@@ -27,7 +27,7 @@ I have published a number of academic papers in TRB and other international conf
 
 I am familiar with a variety of deep learning algorithms, and have strong skills in Python and MATLAB programming.
 
-My research interests include:
+### Research Interests:
 - Reinforcement learning
 - Deep learning
 - Intelligent Transportation Systems
