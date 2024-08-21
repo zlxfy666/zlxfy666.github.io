@@ -35,7 +35,7 @@ Please find my CV [here](../files/cv.pdf "LExing Zhang's CV"){:target="_blank"}.
 - *2024.08 - Present*, <a href="https://www.nus.edu.sg/"><img class="jpeg" src="/images/R.jpeg" width="23pt"></a> 新加坡国立大学, 土木与环境工程学院, 交换生
 - *2021.08 - Present*, <a href="https://en.chd.edu.cn/"><img class="jpg" src="/images/xh2.jpg" width="23pt"></a> 长安大学, 运输工程学院, 本科
 
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-pub'></span>
 
 # 📝publication
 
@@ -66,6 +66,8 @@ Boyao Peng, **Lexing Zhang**, Enkai Li, Yin Feng, Ying Zhang, Li Zhong
 </div>
 </div>
 
+<span class='anchor' id='-haa'></span>
+
 # 🎖 Honors and Awards
 - National Scholarship(Top 1%)
 - Class Academic Merit Scholarship
@@ -78,6 +80,8 @@ Boyao Peng, **Lexing Zhang**, Enkai Li, Yin Feng, Ying Zhang, Li Zhong
 - Provincial 2nd Prize, the 1st Shaanxi Provincial College Students Transportation Technology Competition in 2023
 - Provincial 2nd Prize, the 2nd Shaanxi Provincial College Students Transportation Technology Competition in 2024
 - Provincial 3nd Prize, the 2nd Shaanxi Provincial College Students Transportation Technology Competition in 2024
+
+<span class='anchor' id='-skills'></span>
 
 # 📚 Skills 
 - Software: SPSS, MATLAB, Visio, VISSIM, AutoCAD, Origin.
