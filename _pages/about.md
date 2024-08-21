@@ -41,6 +41,8 @@ Please find my CV [here](../files/cv.pdf "LExing Zhang's CV"){:target="_blank"}.
 
 # 📝publications
 
+## Accepted papers
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2024</div><img class="jpg" src="/images/paper_TR2024.jpg" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -68,7 +70,13 @@ Boyao Peng, **Lexing Zhang**, Enkai Li, Yin Feng, Ying Zhang, Li Zhong
 </div>
 </div>
 
-<span class='anchor' id='-haa'></span>
+
+
+## Papers under review
+
+Incorporating Traffic History Variables in Time-Series Acceleration Prediction Models for Highway Tunnel Exits Using Attention-Enhanced LSTM Networks. Wenxuan Wang, **Lexing Zhang**, Jiale Lei, Yin Feng, Hengxu Hu. 104th Annual Meeting of Transportation Research Board (TRB 2025).
+
+From Lockdown to Recovery: Modeling the Long-term Effects of COVID-19 on Xi'an's Metro Ridership. Chen Ma, Baixi Shi, Yanqiu Cheng, **Lexing Zhang**, Kuanmin Chen. 104th Annual Meeting of Transportation Research Board (TRB 2025).
 
 # 🎖 Honors and Awards
 - National Scholarship(Top 1%)
