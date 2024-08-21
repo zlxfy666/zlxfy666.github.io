@@ -81,5 +81,5 @@ Boyao Peng, **Lexing Zhang**, Enkai Li, Yin Feng, Ying Zhang, Li Zhong
 
 # 📚 Skills 
 - Software: SPSS, MATLAB, Visio, VISSIM, AutoCAD, Origin.
-- Computer skills: Python, familiar with basic machine learning algorithms, and basic data processing skills.
+- Computer skills: Python, familiar with Deep learning algorithms and data processing skills.
 - English Level: CET-4 (531), CET-4 (439), TOEFL (88).
