@@ -80,8 +80,6 @@ Boyao Peng, **Lexing Zhang**, Enkai Li, Yin Feng, Ying Zhang, Li Zhong
 
 - Development of a Surrogate Safety Measure for Evaluating Rear-End Collision Risk Perception. Wenxuan wang，**lexing zhang**，boyan. Transportation Research Record
 
-## Papers submitted
-
 - Vehicle Acceleration Prediction Considering Group Consistency and Individual Differences Using Attention-enhanced LSTM Network. Wenxuan Wang, **Lexing Zhang***, Jiale Lei, Boyao Peng and Yin Feng.IEEE Intelligent Transportation Systems Magazine
 
 <span class='anchor' id='-haa'></span>
