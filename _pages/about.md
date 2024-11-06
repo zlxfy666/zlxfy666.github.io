@@ -80,11 +80,9 @@ Boyao Peng, **Lexing Zhang**, Enkai Li, Yin Feng, Ying Zhang, Li Zhong
 
 - Development of a Surrogate Safety Measure for Evaluating Rear-End Collision Risk Perception. Wenxuan wang，**lexing zhang**，boyan. Transportation Research Record
 
-- A New Framework for Subway Passenger Flow Detection Based on Improved Feature Extraction and Fusion. Enkai Li, Dong Ding, **Lexing Zhang**,Yang Chen,Rongzhen Li. Intelligent Transportation Infrastructure.
+## Papers submitted
 
-## In prepared papers
-
-- Incorporating Traffic History Variables in Time-Series Acceleration Prediction Models for Highway Tunnel Exits Using Attention-Enhanced LSTM Networks. Wenxuan Wang, **Lexing Zhang**, Jiale Lei, Yin Feng, Hengxu Hu. Prepared for the Journal of Intelligent Transportation Systems.
+- Vehicle Acceleration Prediction Considering Group Consistency and Individual Differences Using Attention-enhanced LSTM Network. Wenxuan Wang, **Lexing Zhang***, Jiale Lei, Boyao Peng and Yin Feng.IEEE Intelligent Transportation Systems Magazine
 
 <span class='anchor' id='-haa'></span>
 
