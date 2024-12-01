@@ -82,6 +82,7 @@ Boyao Peng, **Lexing Zhang**, Enkai Li, Yin Feng, Ying Zhang, Li Zhong
 
 - Vehicle Acceleration Prediction Considering Group Consistency and Individual Differences Using Attention-enhanced LSTM Network. Wenxuan Wang, **Lexing Zhang***, Jiale Lei, Boyao Peng and Yin Feng.IEEE Intelligent Transportation Systems Magazine
 
+- From Lockdown to Recovery: Modeling the Long-term Effects of COVID-19 on Xi'an's Metro Ridership. Chen Ma, Baixi Shi, Yanqiu Cheng, **Lexing Zhang**, Kuanmin Chen. Transportation Research Record
 <span class='anchor' id='-haa'></span>
 
 # 🎖 Honors and Awards
