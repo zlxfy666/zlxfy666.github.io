@@ -28,10 +28,10 @@ I have published a number of academic papers in TRB and other international conf
 I am familiar with a variety of deep learning algorithms, and have strong skills in Python and MATLAB programming.
 
 **Research Interests:**
-- Reinforcement learning
-- Deep learning
+- graph theory
+- control theory
+- Traffic network control
 - Intelligent Transportation Systems
-- Transportation safety
 
 Please find my CV [here](../docs/Lexing_Zhang_CV.pdf "LExing Zhang's CV"){:target="_blank"}.
 
