@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lexing Zhang(le hsing chang)"
-description              : "Exchange Student(B.E. Student)"
+description              : "Master Student"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lexing Zhang(le hsing chang)"
   avatar           : "images/myphoto.png"
-  bio              : "National University of Singapore(Chang'an University)"
-  location         : "Singapore,Singapore"
+  bio              : "University of Minnesota"
+  location         : "Minneapolis, Minnesota"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "u1375989@u.nus.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=wNdqZB0AAAAJ"
+  email            : "lesingzhang@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
