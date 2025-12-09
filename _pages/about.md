@@ -21,7 +21,7 @@ redirect_from:
 
 Welcome to Lexing Zhang's homepage!
 
-I am currently a Master’s student at the University of Minnesota, College of Science and Engineering, Department of Civil, Environmental, and Geo-Engineering. I received my Bachelor’s degree from Chang’an University, where I majored in Transportation Engineering. During my senior year, I was an exchange student at the National University of Singapore.
+I am currently a Master student at the University of Minnesota, College of Science and Engineering, Department of Civil, Environmental, and Geo-Engineering. I received my Bachelor’s degree from Chang’an University, where I majored in Transportation Engineering. During my senior year, I was an exchange student at the National University of Singapore.
 
 I am advised by <a href="https://sites.google.com/umn.edu/mlevin/home?authuser=0">Prof. Michael Levin</a>. My research focuses on optimization and transportation networks, with particular interest in the application of graph theory and control theory to traffic systems. welcome discussions and collaborations in related research areas！
 
