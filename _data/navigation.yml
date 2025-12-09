@@ -3,17 +3,11 @@ main:
   - title: "About Me"
     url: "/#-am"
 
-  - title: "education"
+  - title: "Education"
     url: "/#-xl"
 
   - title: "Publications"
     url: "/#-pub"
-
-  - title: "Honors and Awards"
-    url: "/#-haa"
-
-  - title: "Skills"
-    url: "/#-skills"
 
   - title: "Web Tracker"
     url: "/#-Tracker"
