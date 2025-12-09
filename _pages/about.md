@@ -38,83 +38,15 @@ Please find my CV [here](../docs/Lexing_Zhang_CV.pdf "LExing Zhang's CV"){:targe
 <span class='anchor' id='-xl'></span>
 
 # 🎓 education
-- *2024.08 - Present*, <a href="https://www.nus.edu.sg/"><img class="jpeg" src="/images/R.jpeg" width="23pt"></a> National University of Singapore, Department of Civil and Environmental Engineering, Exchange Student
-- *2021.08 - Present*, <a href="https://en.chd.edu.cn/"><img class="jpg" src="/images/xh2.jpg" width="23pt"></a> Chang'an University, School of Transportation Engineering, undergraduate
+- *2025.08 – Present*, <a href="https://cse.umn.edu/cege">University of Minnesota</a>,  
+ Department of Civil, Environmental, and Geo-Engineering
+- *2024.08 - 2025.05*, <a href="https://www.nus.edu.sg/"><img class="jpeg" src="/images/R.jpeg" width="23pt"></a> National University of Singapore, Department of Civil and Environmental Engineering, Exchange Student
+- *2021.08 - 2025.06*, <a href="https://en.chd.edu.cn/"><img class="jpg" src="/images/xh2.jpg" width="23pt"></a> Chang'an University, School of Transportation Engineering, undergraduate
 
 <span class='anchor' id='-pub'></span>
 
 # 📝publications
 
-## Accepted papers
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2024</div><img class="jpg" src="/images/paper_TR2024.jpg" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LANE LEVEL JOINT CONTROL OF OFF-RAMP AND MAIN LINE SPEED GUIDANCE ON EXPRESSWAY IN RAINY WEATHER](https://arxiv.org/abs/2403.14172)
-
-Boyao Peng, **Lexing Zhang**, Enkai Li
-
-**contribution** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Complete METANET simulation program development using MATLAB language
-- Data visualization
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRR</div><img class="png" src="/images/TRR_accept_wwx.png" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-Development of a Surrogate Safety Measure for Evaluating Rear-End Collision Risk Perception.
-
-Wenxuan Wang, **Lexing Zhang**, Bo yan, Yanqiu Chen
-
-**contribution** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- data processing
-- experimentation
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCEPT 2024</div><img class="jpg" src="/images/zyl.jpg" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Free-flow tolling system for expressway with fusion of 5G communication and high-precision positioning technology](../docs/zyl.pdf){:target="_blank"}
-
-Boyao Peng, **Lexing Zhang**, Enkai Li, Yin Feng, Ying Zhang, Li Zhong
-
-**contribution** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Simulation Modeling and Parameter Calibration of Metacellular Automata
-- Completion of metacellular automata simulation program development using MATLAB language
-- Data visualization
-</div>
-</div>
-
-- From Lockdown to Recovery: Modeling the Long-term Effects of COVID-19 on Xi'an's Metro Ridership. Chen Ma, Baixi Shi, Yanqiu Cheng, **Lexing Zhang**, Kuanmin Chen. 104th Annual Meeting of Transportation Research Board (TRB 2025).
-
-## Papers under review
-- From Lockdown to Recovery: Modeling the Long-term Effects of COVID-19 on Xi'an's Metro Ridership. Chen Ma, Baixi Shi, Yanqiu Cheng, **Lexing Zhang**, Kuanmin Chen. Transportation Research Record
-<span class='anchor' id='-haa'></span>
-
-# 🎖 Honors and Awards
-- National Scholarship(Top 1%)
-- Class Academic Merit Scholarship
-- College Contribution Scholarship
-- Course Excellence Scholarship
-- National 1st Prize, The 18th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Works Competition
-- Honorable Mention, 2024 American Collegiate Mathematical Modeling Contest
-- Provincial 1st Prize, "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling
-- Provincial 1st Prize, the 1st Shaanxi Provincial College Students Transportation Technology Competition in 2023
-- Provincial 2nd Prize, the 1st Shaanxi Provincial College Students Transportation Technology Competition in 2023
-- Provincial 2nd Prize, the 2nd Shaanxi Provincial College Students Transportation Technology Competition in 2024
-- Provincial 3nd Prize, the 2nd Shaanxi Provincial College Students Transportation Technology Competition in 2024
-
-<span class='anchor' id='-skills'></span>
-
-# 📚 Skills 
-- Software: SPSS, MATLAB, Visio, VISSIM, AutoCAD, Origin.
-- Computer skills: Python, familiar with Deep learning algorithms and data processing skills.
-- English Level: CET-4 (531), CET-6 (509), TOEFL (88).
-
-<span class='Tracker' id='-Tracker'></span>
 
 # 🗺️ Web Tracker
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HuW2g49bPb2IX1B8cfex20Ha-MAL_qAUo3YjJqLMhJM&cl=ffffff&w=a"></script>
