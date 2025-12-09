@@ -38,7 +38,7 @@ Please find my CV [here](../docs/Lexing_Zhang_CV.pdf "LExing Zhang's CV"){:targe
 <span class='anchor' id='-xl'></span>
 
 # 🎓 education
-- *2025.08 – Present*, <a href="https://cse.umn.edu/cege">University of Minnesota</a>,  
+- *2025.08 – Present*, <a href="https://cse.umn.edu/cege"><img class="png" src="/images/UMN-logo.png" width="23pt"></a> University of Minnesota,  
  Department of Civil, Environmental, and Geo-Engineering
 - *2024.08 - 2025.05*, <a href="https://www.nus.edu.sg/"><img class="jpeg" src="/images/R.jpeg" width="23pt"></a> National University of Singapore, Department of Civil and Environmental Engineering, Exchange Student
 - *2021.08 - 2025.06*, <a href="https://en.chd.edu.cn/"><img class="jpg" src="/images/xh2.jpg" width="23pt"></a> Chang'an University, School of Transportation Engineering, undergraduate
