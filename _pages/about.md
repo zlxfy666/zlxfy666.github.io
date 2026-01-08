@@ -67,7 +67,7 @@ Please find my CV [here](../docs/Lexing_Zhang_CV.pdf "Lexing Zhang's CV"){:targe
    *Free-Flow Tolling System for Expressways with Fusion of 5G Communication and High-Precision Positioning Technology.*  
    In *Proceedings of the Fourth International Conference on Smart City Engineering and Public Safety*.
 
-5. Ai, Q., Xu, C., Tong, H., **Zhang, L.**, Peng, C.
+5. Ai, Q., Xu, C., Tong, H., **Zhang, L.**, Peng, C. (2025).  
    *From Network-wide Resilience Assessment to Link-level Grading: An Integrated Framework for Urban Road Transportation Systems under Minor Disturbances.*
    **Transportation Research Board (TRB) 105th Annual Meeting**.
 
