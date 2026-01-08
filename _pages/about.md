@@ -63,14 +63,18 @@ Please find my CV [here](../docs/Lexing_Zhang_CV.pdf "Lexing Zhang's CV"){:targe
    *Lane-Level Joint Control of Off-Ramp and Mainline Speed Guidance on Expressways in Rainy Weather.*  
    **Transportation Research Board (TRB) 103rd Annual Meeting**.
    
-5. Peng, B., **Zhang, L.**, Li, E., Feng, Y., Zhang, Y., & Zhong, L. (2024).  
+4. Peng, B., **Zhang, L.**, Li, E., Feng, Y., Zhang, Y., & Zhong, L. (2024).  
    *Free-Flow Tolling System for Expressways with Fusion of 5G Communication and High-Precision Positioning Technology.*  
    In *Proceedings of the Fourth International Conference on Smart City Engineering and Public Safety*.
+
+5. Ai, Q., Xu, C., Tong, H., **Zhang, L.**, Peng, C.
+   *From Network-wide Resilience Assessment to Link-level Grading: An Integrated Framework for Urban Road Transportation Systems under Minor Disturbances.*
+   **Transportation Research Board (TRB) 105th Annual Meeting**.
 
 ---
 
 ### Preprints
-5. Wang, W., **Zhang, L.**, Lei, J., Feng, Y., & Hu, H. (2025).  
+6. Wang, W., **Zhang, L.**, Lei, J., Feng, Y., & Hu, H. (2025).  
    *Vehicle Acceleration Prediction Considering Environmental Influence and Individual Driving Behavior.*  
    arXiv preprint arXiv:2504.04159.
 
