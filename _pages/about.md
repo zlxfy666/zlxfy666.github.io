@@ -31,9 +31,9 @@ Please find my CV [here](https://fyzlx999-cloud.github.io/fengyin.github.io/docs
 # Education
 
 - *2025.09 - 2028.06 (expected)*, Beijing Jiaotong University, School of Traffic and Transportation, Transportation Planning and Management, M.S. Candidate
-  - First-semester GPA: 88.76/100
+  - First-semester GPA: 3.64/4
 - *2021.09 - 2025.06*, Chang'an University, School of Transportation Engineering, B.Eng. in Transportation
-  - GPA: 88.10/100
+  - GPA: 3.72/4
 
 <span class='anchor' id='-pub'></span>
 
