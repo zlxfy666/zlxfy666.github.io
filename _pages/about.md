@@ -48,7 +48,7 @@ Please find my CV [here](../docs/Lexing_Zhang_CV.pdf "Lexing Zhang's CV"){:targe
 # 📝 Publications
 
 ### Journal Articles
-1. Yin Feng, Enjian Yao, Rui Zhang, Rongsheng Chen, **Lexing Zhang**.  
+1. Yin Feng, Enjian Yao, Rui Zhang, Rongsheng Chen, **Lexing Zhang** (2026).  
    *Optimization of Electric Vehicle Charging Station Layout Considering Mobile Charging Vehicles.*  
    **Transportation Research Part D: Transport and Environment**.
 
