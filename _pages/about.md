@@ -39,19 +39,19 @@ Please find my CV [here](https://fyzlx999-cloud.github.io/fengyin.github.io/docs
 
 # Publications
 
-1. Boyao Peng, Lexing Zhang, Enkai Li, **Yin Feng**, Ying Zhang, Li Zhong.  
+1. **Yin Feng**, Enjian Yao, Rui Zhang, Rongsheng Chen, Lexing Zhang.  
+   *Optimization of Electric Vehicle Charging Station Layout Considering Mobile Charging Vehicles.*  
+   Transportation Research Part D: Transport and Environment. Accepted.
+
+2. Boyao Peng, Lexing Zhang, Enkai Li, **Yin Feng**, Ying Zhang, Li Zhong.  
    *Free-Flow Tolling System for Expressway with Fusion of 5G Communication and High-Precision Positioning Technology.*  
    The 4th International Conference on Smart City Engineering and Public Transportation (SCEPT 2024). Accepted.
 
-2. **Yin Feng**, Enjian Yao, Rui Zhang, Rongsheng Chen, Lexing Zhang.  
-   *Optimization of Electric Vehicle Charging Station Layout Considering Mobile Charging Vehicles.*  
-   Transportation Research Part D: Transport and Environment. Under minor revision.
-
-3. Lexing Zhang, **Yin Feng**, Rongsheng Chen, Qi Ai, Michael Levin.  
+4. Lexing Zhang, **Yin Feng**, Rongsheng Chen, Qi Ai, Michael Levin.  
    *Time-aware MPC Scheduling for Mobile Charging Vehicles with Fixed Charging Stations.*  
    Transportation Research Part C: Emerging Technologies. Under review.
 
-4. Tian Xu, Lexing Zhang, Jiale Lei, **Yin Feng**, Wenxuan Wang, Yinen Ge.  
+5. Tian Xu, Lexing Zhang, Jiale Lei, **Yin Feng**, Wenxuan Wang, Yinen Ge.  
    *Trajectory-Level Acceleration Prediction at Tunnel Exits: A Dual-Input Seq2Seq Framework Incorporating Environmental and Individual Driving Behavior.*
    International Journal of Automotive Technology. Under review.
 
