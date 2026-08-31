@@ -48,19 +48,19 @@ Please find my CV [here](../docs/Lexing_Zhang_CV.pdf "Lexing Zhang's CV"){:targe
 # 📝 Publications
 
 ### Journal Articles
-1. **Lexing Zhang**, Michael W. Levin*, Mobina Nankali. (2026).  
+1. **Lexing Zhang**, Michael W. Levin\*, Mobina Nankali. (2026).  
    *A Bi-level Optimization Model for Urban Bicycle Lane Planning with a Globally Optimal Branch-and-Price-and-Cut Algorithm.*
    **Transportation Research Part E: Logistics and Transportation Review**.
 
-3. Yin Feng, Enjian Yao, Rui Zhang*, Rongsheng Chen, **Lexing Zhang** (2026).  
+3. Yin Feng, Enjian Yao, Rui Zhang\*, Rongsheng Chen, **Lexing Zhang** (2026).  
    *Optimization of Electric Vehicle Charging Station Layout Considering Mobile Charging Vehicles.*  
    **Transportation Research Part D: Transport and Environment**.
 
-4. Ma, C., Shi, B., Cheng, Y.*, **Zhang, L.**, & Chen, K. (2025).  
+4. Ma, C., Shi, B., Cheng, Y.\*, **Zhang, L.**, & Chen, K. (2025).  
    *From Lockdown to Recovery: Modeling the Long-Term Effects of COVID-19 on Station-Level Ridership of Xi’an Metro.*  
    **Transportation Research Record**.
 
-5. Wang, W* **Zhang, L.**, Yan, B., & Cheng, Y. (2025).  
+5. Wang, W\*, **Zhang, L.**, Yan, B., & Cheng, Y. (2025).  
    *Development of a Surrogate Safety Measure for Evaluating Rear-End Collision Risk Perception.*  
    **Transportation Research Record**.
 
