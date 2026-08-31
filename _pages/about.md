@@ -48,7 +48,7 @@ Please find my CV [here](../docs/Lexing_Zhang_CV.pdf "Lexing Zhang's CV"){:targe
 # 📝 Publications
 
 ### Journal Articles
-1. **Lexing Zhang**, Michael W. Levin*, Mobina Nankali. (2026). 
+1. **Lexing Zhang**, Michael W. Levin*, Mobina Nankali. (2026).  
    *A Bi-level Optimization Model for Urban Bicycle Lane Planning with a Globally Optimal Branch-and-Price-and-Cut Algorithm.*
    **Transportation Research Part E: Logistics and Transportation Review**.
 
