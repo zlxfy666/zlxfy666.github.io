@@ -49,39 +49,39 @@ Please find my CV [here](../docs/Lexing_Zhang_CV.pdf "Lexing Zhang's CV"){:targe
 
 ### Journal Articles
 1. **Lexing Zhang**, Michael W. Levin\*, Mobina Nankali. (2026).  
-   *A Bi-level Optimization Model for Urban Bicycle Lane Planning with a Globally Optimal Branch-and-Price-and-Cut Algorithm.*
+   [*A Bi-level Optimization Model for Urban Bicycle Lane Planning with a Globally Optimal Branch-and-Price-and-Cut Algorithm.*](https://www.sciencedirect.com/science/article/pii/S1366554526005570?dgcid=coauthor)  
    **Transportation Research Part E: Logistics and Transportation Review**.
 
 3. Yin Feng, Enjian Yao, Rui Zhang\*, Rongsheng Chen, **Lexing Zhang** (2026).  
-   *Optimization of Electric Vehicle Charging Station Layout Considering Mobile Charging Vehicles.*  
+   [*Optimization of Electric Vehicle Charging Station Layout Considering Mobile Charging Vehicles.*](https://doi.org/10.1016/j.trd.2026.105488)  
    **Transportation Research Part D: Transport and Environment**.
 
 4. Ma, C., Shi, B., Cheng, Y.\*, **Zhang, L.**, & Chen, K. (2025).  
-   *From Lockdown to Recovery: Modeling the Long-Term Effects of COVID-19 on Station-Level Ridership of Xi’an Metro.*  
+   [*From Lockdown to Recovery: Modeling the Long-Term Effects of COVID-19 on Station-Level Ridership of Xi’an Metro.*](https://doi.org/10.1177/03611981251357005)  
    **Transportation Research Record**.
 
 5. Wang, W\*, **Zhang, L.**, Yan, B., & Cheng, Y. (2025).  
-   *Development of a Surrogate Safety Measure for Evaluating Rear-End Collision Risk Perception.*  
+   [*Development of a Surrogate Safety Measure for Evaluating Rear-End Collision Risk Perception.*](https://doi.org/10.1177/03611981241311574)  
    **Transportation Research Record**.
 
 ---
 
 ### Conference Papers
 3. Peng, B., **Zhang, L.**, & Li, E. (2024).  
-   *Lane-Level Joint Control of Off-Ramp and Mainline Speed Guidance on Expressways in Rainy Weather.*  
+   [*Lane-Level Joint Control of Off-Ramp and Mainline Speed Guidance on Expressways in Rainy Weather.*](https://arxiv.org/abs/2403.14172)  
    **Transportation Research Board (TRB) 103rd Annual Meeting**.
    
 4. Peng, B., **Zhang, L.**, Li, E., Feng, Y., Zhang, Y., & Zhong, L. (2024).  
-   *Free-Flow Tolling System for Expressways with Fusion of 5G Communication and High-Precision Positioning Technology.*  
+   [*Free-Flow Tolling System for Expressways with Fusion of 5G Communication and High-Precision Positioning Technology.*](https://doi.org/10.1117/12.3030779)  
    In *Proceedings of the Fourth International Conference on Smart City Engineering and Public Safety*.
 
 5. Ai, Q., Xu, C., Tong, H., **Zhang, L.**, Peng, C. (2025).  
-   *From Network-wide Resilience Assessment to Link-level Grading: An Integrated Framework for Urban Road Transportation Systems under Minor Disturbances.*
+   *From Network-wide Resilience Assessment to Link-level Grading: An Integrated Framework for Urban Road Transportation Systems under Minor Disturbances.*  
    **Transportation Research Board (TRB) 105th Annual Meeting**.
 
 ---
 
 ### Preprints
 6. Wang, W., **Zhang, L.**, Lei, J., Feng, Y., & Hu, H. (2025).  
-   *Vehicle Acceleration Prediction Considering Environmental Influence and Individual Driving Behavior.*  
+   [*Vehicle Acceleration Prediction Considering Environmental Influence and Individual Driving Behavior.*](https://arxiv.org/abs/2504.04159)  
    arXiv preprint arXiv:2504.04159.
