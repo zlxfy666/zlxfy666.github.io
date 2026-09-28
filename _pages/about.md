@@ -67,17 +67,33 @@ Please find my CV [here](../docs/Lexing_Zhang_CV.pdf "Lexing Zhang's CV"){:targe
 ---
 
 ### Conference Papers
-3. Peng, B., **Zhang, L.**, & Li, E. (2024).  
-   [*Lane-Level Joint Control of Off-Ramp and Mainline Speed Guidance on Expressways in Rainy Weather.*](https://arxiv.org/abs/2403.14172)  
-   **Transportation Research Board (TRB) 103rd Annual Meeting**.
-   
-4. Peng, B., **Zhang, L.**, Li, E., Feng, Y., Zhang, Y., & Zhong, L. (2024).  
-   [*Free-Flow Tolling System for Expressways with Fusion of 5G Communication and High-Precision Positioning Technology.*](https://doi.org/10.1117/12.3030779)  
-   In *Proceedings of the Fourth International Conference on Smart City Engineering and Public Safety*.
 
-5. Ai, Q., Xu, C., Tong, H., **Zhang, L.**, Peng, C. (2025).  
+1. **Zhang, L.**, Nankali, M., Ai, Q., & Levin, M. W. (2027).  
+   *Bicycle-Lane Network Design with Coupled OD-Level and Path-Level Coverage.*  
+   **Transportation Research Board (TRB) 106th Annual Meeting**.  
+   Manuscript No. TRBAM-27-00353.
+
+2. Ai, Q., Xu, C., Tong, H., **Zhang, L.**, & Levin, M. W. (2027).  
+   *Dynamic Snowplow Routing for Improving Peak-Period Traffic Resilience: A Target-Driven Adaptive Large Neighborhood Search on Space-Time Networks.*  
+   **Transportation Research Board (TRB) 106th Annual Meeting**.  
+   Manuscript No. TRBAM-27-00380.
+
+3. Ai, Q., Xu, C., Tong, H., **Zhang, L.**, & Peng, C. (2027).  
+   *Safe Linear Interval–Based Resilience Enhancement: A Linear Gain Theorem for Minor Disturbances and Recovery Strategies for Daily Disruption and Post-Disaster Conditions.*  
+   **Transportation Research Board (TRB) 106th Annual Meeting**.  
+   Manuscript No. TRBAM-27-00235.
+
+4. Ai, Q., Xu, C., Tong, H., **Zhang, L.**, & Peng, C. (2025).  
    *From Network-wide Resilience Assessment to Link-level Grading: An Integrated Framework for Urban Road Transportation Systems under Minor Disturbances.*  
    **Transportation Research Board (TRB) 105th Annual Meeting**.
+
+5. Peng, B., **Zhang, L.**, & Li, E. (2024).  
+   [*Lane-Level Joint Control of Off-Ramp and Mainline Speed Guidance on Expressways in Rainy Weather.*](https://arxiv.org/abs/2403.14172)  
+   **Transportation Research Board (TRB) 103rd Annual Meeting**.
+
+6. Peng, B., **Zhang, L.**, Li, E., Feng, Y., Zhang, Y., & Zhong, L. (2024).  
+   [*Free-Flow Tolling System for Expressways with Fusion of 5G Communication and High-Precision Positioning Technology.*](https://doi.org/10.1117/12.3030779)  
+   In *Proceedings of the Fourth International Conference on Smart City Engineering and Public Safety*.
 
 ---
 
