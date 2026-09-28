@@ -71,17 +71,14 @@ Please find my CV [here](../docs/Lexing_Zhang_CV.pdf "Lexing Zhang's CV"){:targe
 1. **Zhang, L.**, Nankali, M., Ai, Q., & Levin, M. W. (2027).  
    *Bicycle-Lane Network Design with Coupled OD-Level and Path-Level Coverage.*  
    **Transportation Research Board (TRB) 106th Annual Meeting**.  
-   Manuscript No. TRBAM-27-00353.
 
 2. Ai, Q., Xu, C., Tong, H., **Zhang, L.**, & Levin, M. W. (2027).  
    *Dynamic Snowplow Routing for Improving Peak-Period Traffic Resilience: A Target-Driven Adaptive Large Neighborhood Search on Space-Time Networks.*  
    **Transportation Research Board (TRB) 106th Annual Meeting**.  
-   Manuscript No. TRBAM-27-00380.
 
 3. Ai, Q., Xu, C., Tong, H., **Zhang, L.**, & Peng, C. (2027).  
    *Safe Linear Interval–Based Resilience Enhancement: A Linear Gain Theorem for Minor Disturbances and Recovery Strategies for Daily Disruption and Post-Disaster Conditions.*  
    **Transportation Research Board (TRB) 106th Annual Meeting**.  
-   Manuscript No. TRBAM-27-00235.
 
 4. Ai, Q., Xu, C., Tong, H., **Zhang, L.**, & Peng, C. (2025).  
    *From Network-wide Resilience Assessment to Link-level Grading: An Integrated Framework for Urban Road Transportation Systems under Minor Disturbances.*  
