@@ -21,7 +21,7 @@ redirect_from:
 
 Welcome to Lexing Zhang's homepage!
 
-I am currently a Master student at the University of Minnesota, College of Science and Engineering, Department of Civil, Environmental, and Geo-Engineering, advised by <a href="https://sites.google.com/umn.edu/mlevin/home?authuser=0">Prof. Michael Levin</a>. I received my Bachelor’s degree from Chang’an University, where I majored in Transportation Engineering and was advised by <a href="https://js.chd.edu.cn/ysgcxy/wwx2/list.htm">Prof. Wenxuan Wang</a>. During my senior year, I was an exchange student at the National University of Singapore.
+I am currently a PhD student at the University of Minnesota, College of Science and Engineering, Department of Civil, Environmental, and Geo-Engineering, advised by <a href="https://sites.google.com/umn.edu/mlevin/home?authuser=0">Prof. Michael Levin</a>. I received my Bachelor’s degree from Chang’an University, where I majored in Transportation Engineering and was advised by <a href="https://js.chd.edu.cn/ysgcxy/wwx2/list.htm">Prof. Wenxuan Wang</a>. During my senior year, I was an exchange student at the National University of Singapore.
 
 My current research focuses on optimization and transportation networks, with particular interest in the application of optimization, graph theory and control theory to traffic systems.
 
